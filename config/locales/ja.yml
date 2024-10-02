@@ -20,4 +20,6 @@ ja:
     successful_destroy: "%{model}が削除されました。"
     edit:
       editing_book: "編集"
+    index:
+      book: "書籍"
   
