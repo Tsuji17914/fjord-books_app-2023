@@ -9,9 +9,8 @@ ja:
         author: "著者"
         picture: "画像"
   books:
-    show: "この%{model}を表示"
+    look: "この%{model}を表示"
     new: "新しい%{model}を追加"
-    back_to_index: "一覧に戻る"
     destroy: "この%{model}を削除"
     update_book: "本を更新"
     successful_create: "%{model}が作成されました。"
@@ -19,3 +18,8 @@ ja:
     successful_destroy: "%{model}が削除されました。"
     edit:
       editing_book: "編集"
+      back_to_index: "一覧に戻る"
+    show: 
+      editing_book: "編集"
+      back_to_index: "一覧に戻る"
+      destroy: "削除"
