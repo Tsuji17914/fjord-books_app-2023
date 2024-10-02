@@ -11,11 +11,11 @@ ja:
   books:
     show: "この%{model}を表示"
     new: "新しい%{model}を追加"
-    edit: "この%{model}を編集"
     back_to_index: "一覧に戻る"
     destroy: "この%{model}を削除"
-    editing_book: "編集"
     update_book: "本を更新"
     successful_create: "%{model}が作成されました。"
     successful_update: "%{model}が更新されました。"
     successful_destroy: "%{model}が削除されました。"
+    edit:
+      editing_book: "編集"
