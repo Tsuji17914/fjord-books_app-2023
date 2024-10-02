@@ -10,7 +10,7 @@ ja:
         picture: "画像"
   books:
     look: "この%{model}を表示"
-    new: "新しい%{model}を追加"
+    add: "%{model}を追加"
     destroy: "この%{model}を削除"
     change: "この%{model}を編集"
     back_to_index: "一覧に戻る"
@@ -22,4 +22,6 @@ ja:
       editing_book: "編集"
     index:
       book: "書籍"
+    new:
+      new_book: "新しい%{model}を追加"
   
